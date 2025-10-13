@@ -94,9 +94,7 @@ The game detects wins, draws, and allows you to restart.
 
 ## Demo / Screenshot
 
-You can include a screenshot or GIF of your game here to showcase how it looks:
-
-*(Replace with your own image or GIF)*
+screenshot  game here to showcase how it looks:
 
 <img width="749" height="949" alt="SRC1" src="https://github.com/user-attachments/assets/e0cf23e5-d239-44d4-a4a1-f985d0f94f3b" />
 
